@@ -1,10 +1,24 @@
-# Typel Fonts
+<p align="center">
+ <img width="128" height="128" alt="logo" style= "align-content=center;" src="https://github.com/user-attachments/assets/f3226fe7-37fc-4f28-9c56-03a64b747d8e" /> 
+</p>
 
+<h1 align = "center">Typel Fonts</h1>
+
+<p align="center"> 
 Editor de fuentes pixel para navegador y Windows. Dibuja cada letra a mano en
 una rejilla, comprueba el resultado sobre texto real y expórtala a OTF, TTF, WOFF,
 WOFF2 o JSON.
+</p>
 
-**Versión 1.0.0**
+<p align="center">
+  <a href="https://github.com/cvault-node/typelfonts-studio/releases/latest">
+    <img src="https://img.shields.io/github/v/release/cvault-node/typelfonts-studio?label=release" alt="Latest release">
+  </a>
+  <a href="https://github.com/cvault-node/typelfonts-studio/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-ISC-blue.svg" alt="License: ISC">
+  </a>
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Web-brightgreen" alt="Platform: Windows | Web">
+</p>
 
 Sitio web: <https://typelfonts.netlify.app>
 
@@ -53,13 +67,8 @@ indicador de la barra superior informa si está guardando, si ha terminado, o
 cuándo fue la última escritura.
 
 ### Editor
-
-- **Rejilla de 1 a 32 píxeles.** El tamaño se fija al crear la fuente y define el
-  carácter del resultado: 8 píxeles produce glifos gruesos, 16 deja trabajar el
-  detalle.
 - **Vista previa en vivo.** Se escribe un texto y se muestra con la fuente en
   edición, no con una aproximación.
-- **Zoom** para trabajar con glifos pequeños.
 - **Historial de 100 pasos** de deshacer y rehacer.
 - **Copiar y pegar glifos**, para no repetir letras de estructura parecida.
 - **Temas claro y oscuro.**
@@ -165,6 +174,12 @@ No. Sin anuncios, sin límites de uso y sin rastreo.
 
 ---
 
-## Licencia
+## Historial de Estrellas
 
-ISC. Copyright (c) CuriosVault.
+<a href="https://www.star-history.com/?repos=cvault-node%2Ftypelfonts-studio&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=cvault-node/typelfonts-studio&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=cvault-node/typelfonts-studio&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=cvault-node/typelfonts-studio&type=date&legend=top-left" />
+ </picture>
+</a>
