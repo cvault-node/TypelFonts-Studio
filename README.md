@@ -33,9 +33,6 @@ Sitio web: <https://typelfonts.netlify.app>
 | <img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/bee2a5af-51f7-491b-ab9f-ea23e808a148" />| <img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/c52011e4-0dc3-4245-b833-e41de5da2059" />|
 | *Galería pública, con la fuente de cada autor.* | *Biblioteca con autoguardado.* |
 
-> Para añadir una captura: guarda la imagen en `docs/screenshots/` con el nombre
-> indicado y ya aparecerá aquí.
-
 ---
 
 ## Qué es
